@@ -1,8 +1,34 @@
+# Hello!
 
-My name is Jonah Pears and I am a PhD student at the University of Kent, UK.
-I am reaching the end of my PhD and am curently aiming to submit my thesis by September 2024 (fyi: time of writing 9th July 2024).
+My name is Jonah Pears and I am currently a Postdoc researcher at the University of Kent, UK.
+I am a member of the [PLAS](https://research.kent.ac.uk/programming-languages-systems/) research group, and am currently working on a project under Dr David Castro-Perez.
+During my PhD I was supervised by Dr Laura Bocchi. (Below I talk more about my [PhD research](#phd-research).)
 
+## Research
 
-## Hello!
-I plan to use this blog to host articles that accompany other work.
+### Interests
+
+`TODO`
+
+### Publications
+
+- *Jonah Pears, Laura Bocchi, Raymond Hu*: [Erlang on TOAST: Generating Erlang Stubs with Inline TOAST Monitors](https://doi.org/10.1145/3677995.3678192). *Erlang 2024*
+- *Jonah Pears, Laura Bocchi, Maurizio Murgia, Andy King*: [Introducing TOAST: Safe Asynchronous Mixed-Choice For Timed Interactions](https://doi.org/10.48550/arXiv.2401.11197). *LMCS (to appear)*
+- *Jonah Pears, Laura Bocchi, Andy King*: [Safe Asynchronous Mixed-Choice for Timed Interactions](https://doi.org/10.1007/978-3-031-35361-1_12). *COORDINATION 2023*
+
+> See my profile on [DBLP](https://dblp.org/pid/349/6325.html) for a list that is more likely to be up-to-date.
+
+### PhD Research
+
+I started by PhD in September of 2021 and have since passed my viva (January of 2025). During this time I worked on developing the theory of Timeout Asynchronous Session Types (TOAST for short) [[a](https://doi.org/10.1007/978-3-031-35361-1_12), [b](https://doi.org/10.48550/arXiv.2401.11197)], which I then implemented in `Erlang` as part of a (proof-of-concept) tool-chain [[c](https://doi.org/10.1145/3677995.3678192)] for generating correct-by-construction implementations, which also featured dynamic verification via runtime-monitoring -- I have made a short [blog post](https://jonahpears.github.io/2024/07/09/TOASTER.html) about this.
+
+From a high-level view, the research aims to improve existing models that we can use to reason on the behaviour of, e.g., devices on the web, in order to facilitate them having a broader range of real-world applications.
+At a lower-level:
+(i) these models capture the behaviour of interactions in asynchronous, concurrent (and possibly distributed) systems,
+and (ii) the extensions focused on improving their descriptive capabilities such that they can model the behaviour of [*timeouts*](https://en.wikipedia.org/wiki/Timeout_(computing)) (e.g., a server can receive a response within $n$ time units after which it may do something else).
+([My thesis is available here](https://kar.kent.ac.uk/109393/1/136PhDThesis.pdf).)
+
+## This Blog
+
+I ~~plan~~ *would like* to use this blog to host articles that accompany my work (*though*, let us see how this goes).
 The writing here will likely be less formal than usual, and will try to assume as little as possible about the reader.
