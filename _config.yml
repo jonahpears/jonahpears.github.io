@@ -1,6 +1,6 @@
 title: "To-be-named Blog"
-author: "Jonah Pears <a href="https://orcid.org/0000-0003-4492-4072">
-<img border="0" align="top" alt="orcid id" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="100" height="100">"
+author: "Jonah Pears" # <a href="https://orcid.org/0000-0003-4492-4072">
+<img border="0" align="top" alt="orcid id" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="100" height="100">
 description: "Accompaniment blog posts for other work." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
