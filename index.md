@@ -20,7 +20,7 @@ During my PhD I was supervised by Dr Laura Bocchi -- [I talk more about my PhD r
 
 ### PhD Research
 
-I started by PhD in September of 2021 and have since passed my viva (January of 2025). During this time I worked on developing the theory of Timeout Asynchronous Session Types (TOAST for short) [[a](https://doi.org/10.1007/978-3-031-35361-1_12), [b](https://doi.org/10.48550/arXiv.2401.11197)], which I then implemented in `Erlang` as part of a (proof-of-concept) tool-chain [[c](https://doi.org/10.1145/3677995.3678192)] for generating correct-by-construction implementations, which also featured dynamic verification via runtime-monitoring -- I have made a short [blog post](https://jonahpears.github.io/2024/07/09/TOASTER.html) about this.
+I started by PhD in September of 2021 and have since passed my viva (January of 2025). During this time I worked on developing the theory of Timeout Asynchronous Session Types (TOAST for short) [[a](https://doi.org/10.1007/978-3-031-35361-1_12), [b](https://doi.org/10.48550/arXiv.2401.11197)], which I then implemented in Erlang as part of a (proof-of-concept) tool-chain [[c](https://doi.org/10.1145/3677995.3678192)] for generating correct-by-construction implementations, which also featured dynamic verification via runtime-monitoring -- I have made a short [blog post](https://jonahpears.github.io/2024/07/09/TOASTER.html) about this.
 
 From a high-level view, the research aims to improve existing models that we can use to reason on the behaviour of, e.g., devices on the web, in order to facilitate them having a broader range of real-world applications.
 At a lower-level:
