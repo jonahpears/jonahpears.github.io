@@ -12,9 +12,9 @@ During my PhD I was supervised by Dr Laura Bocchi -- [I talk more about my PhD r
 
 ### Publications
 
-- *Jonah Pears, Laura Bocchi, Raymond Hu*: [Erlang on TOAST: Generating Erlang Stubs with Inline TOAST Monitors](https://doi.org/10.1145/3677995.3678192). *Erlang 2024*
-- *Jonah Pears, Laura Bocchi, Maurizio Murgia, Andy King*: [Introducing TOAST: Safe Asynchronous Mixed-Choice For Timed Interactions](https://doi.org/10.48550/arXiv.2401.11197). *LMCS (to appear)*
-- *Jonah Pears, Laura Bocchi, Andy King*: [Safe Asynchronous Mixed-Choice for Timed Interactions](https://doi.org/10.1007/978-3-031-35361-1_12). *COORDINATION 2023*
+- (*Erlang 2024*) [Erlang on TOAST: Generating Erlang Stubs with Inline TOAST Monitors](https://doi.org/10.1145/3677995.3678192). <br> *Jonah Pears, Laura Bocchi, Raymond Hu*
+- (*LMCS, to appear*) [Introducing TOAST: Safe Asynchronous Mixed-Choice For Timed Interactions](https://doi.org/10.48550/arXiv.2401.11197). <br> *Jonah Pears, Laura Bocchi, Maurizio Murgia, Andy King*
+- (*COORDINATION 2023*) [Safe Asynchronous Mixed-Choice for Timed Interactions](https://doi.org/10.1007/978-3-031-35361-1_12). <br> *Jonah Pears, Laura Bocchi, Andy King*
 
 > See [my profile on DBLP](https://dblp.org/pid/349/6325.html) for a list that is more likely to be up-to-date.
 
