@@ -2,7 +2,7 @@
 
 My name is Jonah Pears <a href='https://orcid.org/0000-0003-4492-4072'><img border='0' align='center' alt='orcid id' src='https://orcid.org/assets/vectors/orcid.logo.icon.svg' width='15' height='15'></a> and I am currently a Postdoc researcher at the University of Kent, UK.
 I am a member of the [PLAS](https://research.kent.ac.uk/programming-languages-systems/) research group, and am currently working on a project under Dr David Castro-Perez.
-During my PhD I was supervised by Dr Laura Bocchi -- I talk about my [PhD research](#phd-research) more further down the page.
+During my PhD I was supervised by Dr Laura Bocchi -- [I talk more about my PhD research here](#phd-research).
 
 ## Research
 
